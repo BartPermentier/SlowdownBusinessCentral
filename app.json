@@ -1,0 +1,25 @@
+{
+  "id": "ae329936-1fbd-4ec2-8aaf-7a2ed945bbc5",
+  "name": "SlowdownBusinessCentral",
+  "publisher": "BPE",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://www.altoolbox.com/",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 80000,
+    "to": 80100
+  },
+  "runtime": "2.1",
+  "features": ["TranslationFile"],
+  "showMyCode": true
+}
